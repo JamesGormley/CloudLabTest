@@ -45,6 +45,7 @@ public class Multiplication extends HttpServlet {
 		
 		if ( check == 0)
 		{
+			//Calculation
 			Answer = ( Aint * Bint);
 			resp.getWriter().println("A: " +AString+ " B: " +BString+ " A x B = " +Answer);
 		}
