@@ -1,0 +1,2 @@
+serviceClass: ie.mydit.gormley.james.client.GreetingService
+path: F1749AAEC6E9C06C858750AC3E0EE7DA.gwt.rpc

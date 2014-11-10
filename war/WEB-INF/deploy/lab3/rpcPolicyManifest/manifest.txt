@@ -1,0 +1,3 @@
+# Module lab3
+# RPC service class, partial path of RPC policy file
+ie.mydit.gormley.james.client.GreetingService, F1749AAEC6E9C06C858750AC3E0EE7DA.gwt.rpc
