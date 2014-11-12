@@ -15,15 +15,6 @@
 		<servlet-name>Addition</servlet-name>
 		<url-pattern>/Addition</url-pattern>
 	</servlet-mapping>
-	
-	<servlet>
-		<servlet-name>Multiplication</servlet-name>
-		<servlet-class>ie.mydit.gormley.james.server.Multiplication</servlet-class>
-	</servlet>
-	<servlet-mapping>
-		<servlet-name>Multiplication</servlet-name>
-		<url-pattern>/Multiplication</url-pattern>
-	</servlet-mapping>
   
   <!-- Default page to serve -->
   <welcome-file-list>
